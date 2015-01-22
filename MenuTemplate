@@ -4,7 +4,23 @@
 <title>Menu</title>
 </head>
 <nav>
+ <ul>
+  <li>
+   <a href="#" class="active">Acceuil</a>
+  </li>
+  <li>
+  <a href="#" class="active">Ajouter Auteur</a>
+  </li>
+  <li>
+  <a href="#" class="active">Ajouter Livre</a>
+ </ul>
 </nav>
+<body>
+</body>
+<footer>
+Ce travail vous est proposer par Océane , Emilie , Jessy et Alexandre
+</footer>
+</html>
 <body>
 </body>
 </html>
